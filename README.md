@@ -1,4 +1,4 @@
-"""
+```python
 # FRANZ — Single-HTML Visual-Memory Proxy Architecture (README)
 
 This repo is a **single-process** Windows desktop control loop with a **browser-based visual proxy**
@@ -254,4 +254,4 @@ RUNNING (conceptual)
 3) Press Resume
 4) Watch turns stream + canvas overlays
 
-"""
+```
